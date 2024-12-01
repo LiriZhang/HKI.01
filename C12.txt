@@ -1,2 +1,1 @@
-Câu 12. Biết phân tử khí càng đối xứng thì trung bình của động năng toàn phần các càng nhỏ khi có cùng nhiệt độ. Trong các khối khí có cùng nhiệt độ sau, khối khí nào có trung bình động năng toàn phần của các phân tử lớn hơn các khối khí còn lại ?
-
+Câu 12. Các phân tử khí trơ có dạng hình cầu nên khi chuyển động thì trung bình động năng toàn phần của phân tử chỉ là trung bình động năng tịnh tiến. Các phân tử khí được cấu thành từ hai nguyên tử trở lên do kém đối xứng hơn nên trung bình động năng toàn phần được hợp thành từ trung bình động năng tịnh tiến còn có cả một số động năng khác. Trong các khối khí có cùng nhiệt độ sau, khối khí nào có trung bình động năng toàn phần của các phân tử lớn hơn các khối khí còn lại ?
