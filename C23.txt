@@ -1,1 +1,0 @@
-Câu 23. Cho phương trình trạng thái khí lý tưởng pV = nRT. Vậy một khối khí lý tưởng biến đổi trạng thái đẳng áp thì mật độ và trung bình động năng phân tử khí không thay đổi ?
