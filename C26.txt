@@ -1,1 +1,1 @@
-Câu 26. Một khối khí lý tưởng đang biến đổi trạng thái thì động lượng phân tử khí chỉ thay đổi chỉ khi nhiệt độ khối khí thay đổi
+Câu 26. Một khối khí lý tưởng đang biến đổi trạng thái thì trung bình động lượng của các phân tử khí thay đổi chỉ khi nhiệt độ khối khí thay đổi
